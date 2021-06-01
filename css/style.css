@@ -1,0 +1,28 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+/* Main */
+
+.red {
+    height: 100vh;
+    background-color: #ff0100;
+}
+
+.green {
+    height: 100vh;
+    background-color: #008000;
+}
+
+.yellow {
+    height: 100vh;
+    background-color: #ffff01;
+}
